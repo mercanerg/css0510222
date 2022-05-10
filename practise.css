@@ -1,0 +1,36 @@
+* {
+    color: white;
+    margin: 0px;
+}
+
+header.banner .image {
+    text-align: center;
+    background-image: url('tree.webp');
+    height: 100vh;
+    background-size: 100%;
+}
+
+.outer {
+    position: fixed;
+    display: inline-block;
+    top: 95%;
+    left: 42%;
+    flex: auto;
+}
+
+.box {
+    display: inline-block;
+    background-color: white;
+    width: 120px;
+    height: 20px;
+}
+
+h1 {
+    font-family: 'Indie Flower', cursive;
+    font-size: 60px;
+}
+
+h2 {
+    font-family: 'Marck Script', cursive;
+    font-size: 25px;
+}
